@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Тестовое задание для Workmate</string>
+    <string name="picture_of">Изображение of %1$s</string>
+    <string name="loading">загрузка</string>
+    <string name="all_characters">Все персонажи</string>
+    <string name="search">Поиск</string>
+    <string name="about_app">О приложении</string>
+    <string name="back">Назад</string>
+    <string name="this_app_is_made_as_a_test_task_for_workmate">Это приложение было создано в качестве тестового задания для Workmate</string>
+    <string name="author_dmitrii_kruglov">Автор: Дмитрий Круглов Алексеевич</string>
+    <string name="enter_your_filters_and_press_search">Введите фильтры и нажмите на поиск</string>
+    <string name="nothing_found">Ничего не найдено</string>
+    <string name="any">Любой</string>
+    <string name="type">Тип</string>
+    <string name="gender">Гендер</string>
+    <string name="species">Вид</string>
+    <string name="status">Статус</string>
+    <string name="location">Местоположение</string>
+    <string name="origin">Место происхождения</string>
+    <string name="created">Дата создания</string>
+    <string name="appearances">Появления</string>
+    <string name="episode">Эпизод</string>
+    <string name="dimension">Измерение</string>
+    <string name="residents">Жители</string>
+    <string name="characters">Персонажи</string>
+    <string name="air_date">Дата показа</string>
+</resources>
